@@ -9,3 +9,9 @@ I creatori sono:
 @madebyanto
 @shadow_strike
 @arrow.dll
+
+____________________________________________________________________________________
+
+BDScript 2: 82%
+BDScript: 12%
+BDScript Beta: 6%
