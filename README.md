@@ -12,6 +12,6 @@ I creatori sono:
 
 ____________________________________________________________________________________
 
-BDScript 2: 82%
-BDScript: 12%
+BDScript 2: 82% |
+BDScript: 12% |
 BDScript Beta: 6%
