@@ -4,7 +4,7 @@ ItalianModerationsBOT è uno strumento prezioso per moderare il tuo server Disco
 
 2. Fornire supporto emotivo: Se hai bisogno di supporto emotivo, ti invitiamo a rivolgerti a un professionista o a linee di aiuto specializzate.
 
-3, Sostituire la moderazione umana: Il bot è un supporto alla moderazione umana, non un sostituto. Lo staff è sempre presente per gestire situazioni complesse o prendere decisioni che richiedono un giudizio umano.
+3. Sostituire la moderazione umana: Il bot è un supporto alla moderazione umana, non un sostituto. Lo staff è sempre presente per gestire situazioni complesse o prendere decisioni che richiedono un giudizio umano.
 
 4. Censurare opinioni legittime: Il bot è progettato per rimuovere contenuti offensivi o inappropriati, ma non censura opinioni diverse o dibattiti costruttivi.
 
