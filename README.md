@@ -19,3 +19,25 @@ ________________________________________________________________________________
 - BDScript 2: 82%
 - BDScript: 12%
 - BDScript Beta: 6%
+
+____________________________________________________________________________________
+
+## Cosa può fare ItalianModerationsBOT
+
+  ### Gestione membri
+   - [x] Ban ( /ban )
+   - [x] Kick ( /kick )
+   - [x] Timeout ( /timeout ), Un-Timeout ( /untimeout )
+         
+  ### Utilità
+   - [x] Server info ( /serverinfo )
+   - [x] Benvenuto
+   - [x] Addio
+   - [x] Embed Create
+   - [x] Message Create
+         
+   ### Protezione
+   - [x] Anti-Raid
+   - [x] Anti-Nuke
+   - [x] Anti-Link
+   - [x] Anti-Esplicito
