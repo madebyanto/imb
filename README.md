@@ -25,7 +25,7 @@ ________________________________________________________________________________
 ## Cosa può fare ItalianModerationsBOT
 
   ### Gestione membri
-   - [x] Ban ( /ban )
+   - [x] Ban ( /ban ), Un-ban (/unban)
    - [x] Kick ( /kick )
    - [x] Timeout ( /timeout ), Un-Timeout ( /untimeout )
          
