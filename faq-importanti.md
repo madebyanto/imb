@@ -1,7 +1,5 @@
-FAQ SU ItalianModerationsBOT
-Queste sono tutte le faq che devi sapere su ItalianModerationsBOT
-
-___________________________________________________
+# FAQ SU ItalianModerationsBOT
+### Queste sono tutte le faq che devi sapere su ItalianModerationsBOT
 
 1. NON accettiamo nessuna richiesta di re-brand, trasferimento o altre cose riguardo ciò.
 
