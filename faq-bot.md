@@ -1,4 +1,6 @@
-ItalianModerationsBOT è uno strumento prezioso per moderare il tuo server Discord, ma è importante capire i suoi limiti. Ecco alcune cose che il bot NON può fare:
+# FAQ sul bot ItalianModerationsBOT
+
+### ItalianModerationsBOT è uno strumento prezioso per moderare il tuo server Discord, ma è importante capire i suoi limiti. Ecco alcune cose che il bot NON può fare:
 
 1. Risolvere conflitti personali; Il bot non può intervenire in discussioni personali o risolvere dispute tra utenti.
 
@@ -10,9 +12,7 @@ ItalianModerationsBOT è uno strumento prezioso per moderare il tuo server Disco
 
 5. Garantire la sicurezza al 100%: Sebbene il bot sia efficace, non può garantire una sicurezza totale. È sempre possibile che qualche contenuto sfugga alla sua attenzione.
 
-________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-Perchè lo staff non fa alcune cose?
+### Perchè lo staff non fa alcune cose?
 
 1. Giudizio umano: Alcune situazioni richiedono un giudizio umano per essere gestite in modo appropriato. Il bot non può comprendere sfumature, ironia o contesti specifici.
 
@@ -20,10 +20,7 @@ Perchè lo staff non fa alcune cose?
 
 3. Risorse limitate: Lo staff ha risorse limitate e non può essere presente 24 ore su 24, 7 giorni su 7.
 
-________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-
-Cosa fare se ho un problema che il bot non può risolvere?
+### Cosa fare se ho un problema che il bot non può risolvere?
 
 1. Contattare lo staff: Utilizza i canali di comunicazione ufficiali del server per contattare un membro dello staff.
 
